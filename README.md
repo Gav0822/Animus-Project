@@ -4,7 +4,7 @@ Sentiment analysis model / natural language processing
 ## Setup
 - Clone repository
 ```shell
-git clone 
+git clone https://github.com/Gav0822/Animus-Project.git
 ```
 - Prepare virtual environment
 ```shell
