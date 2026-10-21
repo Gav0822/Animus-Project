@@ -1,7 +1,7 @@
 # Animus-Project
 Sentiment analysis model / natural language processing 
 
-##Setup
+## Setup
 - Clone repository
 ```shell
 git clone 
